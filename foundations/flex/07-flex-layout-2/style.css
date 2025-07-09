@@ -50,15 +50,14 @@ body {
 .cards-items{
   display: flex;
   flex-wrap: wrap;
-  margin: 16px;
+  padding: 48px;
+  gap: 32px;
 }
 
 
 .card {
 width: 350px;
-height: 350px;
 padding: 16px;
-margin: 20px;
 }
 
 
